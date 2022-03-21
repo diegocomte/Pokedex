@@ -10,6 +10,17 @@ ________________________________________________________________________________
 **Site**\
 [Pokédex](http://pokenu.surge.sh/)
 
+
+## Descrição do Projeto
+A Pokédex emula o famoso jogo no qual se pode verificar todos os Pokémons e 'capturá-los'.
+
+## Instalação
+```
+$ git clone https://github.com/future4code/Moreira-pokedex2.git
+$ npm install
+$ npm start
+```
+
 **Tecnologias utilizadas**:\
 [MUI](https://mui.com/)\
 [React](https://reactjs.org/)\
