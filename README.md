@@ -33,18 +33,6 @@ $ npm start
 [Postman](https://www.postman.com/)\
 [Trello](https://trello.com/b/MAcvX0yf/pokedex)
 
-**O que funciona**
-- Visualização de 20 pokémons por página, numerados: os seus tipos são especificados no card e definem as cores de fundo;
-- É possível adicionar Pokémons à Pokédex e também removê-los. A seleção de Pokémons do usuário permanece disponível mesmo após atualização da página;
-- O header conduz o usuário, sinalizando as diferentes seções em que se encontra, proporcionando diferentes botões e títulos;
-- É possível ver os detalhes dos Pokémons, verificando suas habilidades;
-- Pode-se percorrer todos os 1228 pokémos por meio da paginação;
-- Há loadings enquanto o carregamento é efetuado;
-
-
-**O que não funciona**
-- Todas as funcionalidades a que nos propusemos desenvolver estão funcionando.
-
 **Imagens**
 
 <img width="1440" alt="Captura de Tela 2022-03-11 às 18 47 03" src="https://user-images.githubusercontent.com/92735047/157975345-bc044a5f-a677-473e-8581-7ebc10578ca5.png">
