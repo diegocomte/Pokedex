@@ -3,9 +3,9 @@
 __________________________________________________________________________________________________________
 
 **Desenvolvedores**:\
+[Diego Conte](https://github.com/diegocomte)\
 [Léo Rigotto](https://github.com/larrygotto)\
-[Jacqueline Cristine Messias do Nascimento](https://github.com/Jacque0)\
-[Diego Conte](https://github.com/diegocomte)
+[Jacqueline Cristine Messias do Nascimento](https://github.com/Jacque0)
 
 **Site**\
 [Pokédex](http://pokenu.surge.sh/)
