@@ -16,7 +16,7 @@ A Pokédex emula o famoso jogo no qual se pode verificar todos os Pokémons e 'c
 
 ## Instalação
 ```
-$ git clone https://github.com/future4code/Moreira-pokedex2.git
+$ git clone https://github.com/diegocomte/Pokedex.git
 $ npm install
 $ npm start
 ```
